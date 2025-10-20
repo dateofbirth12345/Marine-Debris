@@ -40,3 +40,4 @@ def extract_gps_from_image(image_path: str) -> Optional[Tuple[float, float]]:
 
 
 
+
